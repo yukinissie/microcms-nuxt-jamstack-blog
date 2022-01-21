@@ -1,4 +1,6 @@
 # microcms-nuxt-jamstack-blog
+以下を参考に構築
+https://blog.microcms.io/microcms-nuxt-jamstack-blog/
 
 ## Build Setup
 
